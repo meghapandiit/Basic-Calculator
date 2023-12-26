@@ -1,0 +1,29 @@
+.text-center {
+    font-family: 'Abel', sans-serif;
+    color: white;
+    text-align: center;
+  }
+  .message{
+    text-align: center;
+    color: lightgrey;
+    font-family: 'Roboto', sans-serif
+  }
+  .background{
+    width: 35vw;
+    background-color: #f0ac2d;
+  }
+  .mx-auto {
+    margin: auto;
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .flex-col {
+    flex-direction: column;
+  }
+  
+  .items-center {
+    align-items: center;
+  }
